@@ -32,6 +32,12 @@
 
 **Ответ**
 
+![Снимок6](https://github.com/AlexanderSchelokov/ELK-hw/assets/121572590/fe324522-1144-40d2-b5ac-897db37213f8)
+
+***
+
+
+
 Задание 4. Filebeat.
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat.
 
